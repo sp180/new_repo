@@ -1,5 +1,5 @@
-var helloWorld = function(input) {
-  console.log("Hello "+input);
+var helloWorld = function(word) {
+  console.log("Hello "+word);
 }
 
 helloWorld();
